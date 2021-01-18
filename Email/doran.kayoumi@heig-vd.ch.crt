@@ -1,0 +1,85 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 3 (0x3)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=CH, O=HEIG-VD, CN=KAYOUMI-Email
+        Validity
+            Not Before: Jan 18 11:04:18 2021 GMT
+            Not After : Jan 18 11:04:18 2023 GMT
+        Subject: C=CH, O=HEIG-VD, CN=Doran Kayoumi
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:d0:b0:7b:fb:5b:0e:20:9f:3f:2a:68:70:fd:c0:
+                    4c:19:bd:30:31:20:84:e5:3b:ab:26:cb:fd:f8:7a:
+                    ea:c6:e1:ac:83:5a:dc:f0:38:bd:9d:8c:8c:19:39:
+                    ec:0a:b7:50:32:35:7b:a8:5c:77:15:f9:d2:04:f2:
+                    62:0c:ac:04:05:9f:62:c8:64:c5:c0:a3:7c:54:25:
+                    bb:da:36:e6:40:d0:65:50:83:5e:53:44:7b:a3:be:
+                    fd:bf:2a:12:7a:c3:45:d4:b4:3e:65:4d:df:cd:d0:
+                    6d:54:b3:2e:ef:80:53:36:3d:79:29:e8:04:f6:f7:
+                    49:cc:b1:fa:06:f2:61:32:2f:eb:86:67:9e:1e:95:
+                    f4:42:1c:af:f6:56:e1:1d:17:11:32:bb:cb:83:c3:
+                    e0:45:a3:7b:48:10:5d:36:fa:b6:e4:25:c8:4e:6b:
+                    eb:51:e6:81:99:ff:df:35:f3:59:e9:b3:35:39:a1:
+                    dd:96:be:6f:74:42:b8:58:75:2d:3f:1f:1a:ff:77:
+                    b8:50:90:4f:80:d6:8e:e7:4a:2d:60:aa:dc:ea:3f:
+                    df:0e:de:37:73:d1:54:c2:2d:ab:72:6a:e4:ed:a1:
+                    91:91:73:7e:33:a2:af:28:3b:44:3f:c6:46:e7:43:
+                    a6:01:ec:ae:e7:44:f7:ae:b5:3f:1d:3e:63:9b:7d:
+                    75:1f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                E-mail Protection, TLS Web Client Authentication, Any Extended Key Usage
+            X509v3 Subject Key Identifier: 
+                88:E3:B2:7F:46:7F:8E:D5:5E:5E:46:E8:79:7F:14:67:E1:3B:10:9D
+            X509v3 Authority Key Identifier: 
+                keyid:25:03:97:46:E8:92:A2:42:49:7E:D7:27:7F:86:97:42:CA:1C:12:B1
+
+            X509v3 Subject Alternative Name: 
+                email:doran.kayoumi@heig-vd.ch
+    Signature Algorithm: sha256WithRSAEncryption
+         6a:d5:76:f1:28:0f:e9:5e:52:28:b5:f5:f0:d5:59:32:91:53:
+         e5:ce:d7:8b:fd:aa:e6:56:8b:68:c2:73:4c:d3:b0:5a:17:21:
+         ff:e3:e6:70:b4:d9:54:48:78:9e:86:f1:db:c3:7c:19:8b:99:
+         cd:21:3d:ea:e9:fa:da:89:17:78:44:f6:04:af:5d:9c:94:62:
+         e8:19:b5:a8:50:67:59:85:21:44:25:17:2a:49:c1:9c:ae:0b:
+         f1:56:33:58:20:24:3a:90:04:93:40:a3:65:90:58:8a:32:f4:
+         b1:15:e2:56:b4:d2:30:96:ff:ac:0c:a0:66:40:e2:45:54:a6:
+         4a:8a:83:e9:22:71:70:7d:c6:68:5b:6d:20:78:68:0a:ce:c8:
+         a3:02:60:e3:32:16:eb:40:d0:fa:c7:bf:ed:8e:4c:7d:7c:44:
+         0a:78:ce:12:0f:07:96:ec:47:c5:cc:c8:88:4e:01:9c:e8:3d:
+         59:60:bd:b4:3a:2d:cd:20:24:2d:23:b1:a0:cd:b7:1d:f4:91:
+         fa:47:b4:34:9b:8b:b9:cf:4e:55:fc:ba:01:05:35:05:dc:94:
+         03:88:9b:cb:0d:16:1c:bf:62:c2:41:fa:c4:25:99:54:2c:7c:
+         3b:cb:cc:ba:8c:52:53:cd:c7:0f:f8:ac:5a:f2:20:9c:2c:39:
+         8b:13:06:3a
+-----BEGIN CERTIFICATE-----
+MIIDkjCCAnqgAwIBAgIBAzANBgkqhkiG9w0BAQsFADA3MQswCQYDVQQGEwJDSDEQ
+MA4GA1UECgwHSEVJRy1WRDEWMBQGA1UEAwwNS0FZT1VNSS1FbWFpbDAeFw0yMTAx
+MTgxMTA0MThaFw0yMzAxMTgxMTA0MThaMDcxCzAJBgNVBAYTAkNIMRAwDgYDVQQK
+DAdIRUlHLVZEMRYwFAYDVQQDDA1Eb3JhbiBLYXlvdW1pMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEA0LB7+1sOIJ8/Kmhw/cBMGb0wMSCE5TurJsv9+Hrq
+xuGsg1rc8Di9nYyMGTnsCrdQMjV7qFx3FfnSBPJiDKwEBZ9iyGTFwKN8VCW72jbm
+QNBlUINeU0R7o779vyoSesNF1LQ+ZU3fzdBtVLMu74BTNj15KegE9vdJzLH6BvJh
+Mi/rhmeeHpX0Qhyv9lbhHRcRMrvLg8PgRaN7SBBdNvq25CXITmvrUeaBmf/fNfNZ
+6bM1OaHdlr5vdEK4WHUtPx8a/3e4UJBPgNaO50otYKrc6j/fDt43c9FUwi2rcmrk
+7aGRkXN+M6KvKDtEP8ZG50OmAeyu50T3rrU/HT5jm311HwIDAQABo4GoMIGlMA4G
+A1UdDwEB/wQEAwIFoDAJBgNVHRMEAjAAMCMGA1UdJQQcMBoGCCsGAQUFBwMEBggr
+BgEFBQcDAgYEVR0lADAdBgNVHQ4EFgQUiOOyf0Z/jtVeXkboeX8UZ+E7EJ0wHwYD
+VR0jBBgwFoAUJQOXRuiSokJJftcnf4aXQsocErEwIwYDVR0RBBwwGoEYZG9yYW4u
+a2F5b3VtaUBoZWlnLXZkLmNoMA0GCSqGSIb3DQEBCwUAA4IBAQBq1XbxKA/pXlIo
+tfXw1VkykVPlzteL/armVotownNM07BaFyH/4+ZwtNlUSHiehvHbw3wZi5nNIT3q
+6fraiRd4RPYEr12clGLoGbWoUGdZhSFEJRcqScGcrgvxVjNYICQ6kASTQKNlkFiK
+MvSxFeJWtNIwlv+sDKBmQOJFVKZKioPpInFwfcZoW20geGgKzsijAmDjMhbrQND6
+x7/tjkx9fEQKeM4SDweW7EfFzMiITgGc6D1ZYL20Oi3NICQtI7Ggzbcd9JH6R7Q0
+m4u5z05V/LoBBTUF3JQDiJvLDRYcv2LCQfrEJZlULHw7y8y6jFJTzccP+Kxa8iCc
+LDmLEwY6
+-----END CERTIFICATE-----
